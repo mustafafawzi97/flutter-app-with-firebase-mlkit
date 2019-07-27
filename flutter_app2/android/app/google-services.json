@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "55090191010",
+    "firebase_url": "https://flutter-163f6.firebaseio.com",
+    "project_id": "flutter-163f6",
+    "storage_bucket": "flutter-163f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55090191010:android:7ac8acaeb11065bd",
+        "android_client_info": {
+          "package_name": "ml.kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55090191010-1p9tpolut4p0bani8o6i9jg7k8kq1u8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQv90EbGj0y0A2wBUzDzO6diDyvJ3twGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
